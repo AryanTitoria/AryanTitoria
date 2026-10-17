@@ -35,14 +35,6 @@
 </details>
 
 <details>
-	<summary><strong>SmartNotes-AI</strong> · JavaScript</summary>
-
-	[Repository](https://github.com/AryanTitoria/SmartNotes-AI)
-
-	A notes and text summarizer that supports text and audio input.
-</details>
-
-<details>
 	<summary><strong>Virtual Queue Management System</strong> · JavaScript</summary>
 
 	[Repository](https://github.com/AryanTitoria/queue-managing-system)
@@ -67,6 +59,21 @@
 </details>
 
 <details>
+	<summary><strong>Minik8s</strong> · JavaScript</summary>
+
+	[Repository](https://github.com/AryanTitoria/Minik8s)
+
+	A systems project exploring task queues, worker containers, load balancing, and autoscaling.
+</details>
+
+<details>
+	<summary><strong>SmartNotes-AI</strong> · JavaScript</summary>
+
+	[Repository](https://github.com/AryanTitoria/SmartNotes-AI)
+
+	A notes and text summarizer that supports text and audio input.
+</details>
+<details>
 	<summary><strong>Blogsphere</strong> · HTML, JavaScript</summary>
 
 	[Repository](https://github.com/AryanTitoria/Blogsphere)
@@ -74,13 +81,7 @@
 	A web project. See the repository for its current implementation and details.
 </details>
 
-<details>
-	<summary><strong>Minik8s</strong> · JavaScript</summary>
 
-	[Repository](https://github.com/AryanTitoria/Minik8s)
-
-	A systems project exploring task queues, worker containers, load balancing, and autoscaling.
-</details>
 
 ## Technologies
 
